@@ -56,6 +56,9 @@ height: 50px;
     width: 70px;
     height: 70px;
     border-radius: 45px;
+    display: flex;
+    flex-direction: row-reverse;
+
 }
 
 .p1 {
